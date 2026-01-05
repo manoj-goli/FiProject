@@ -1,0 +1,23 @@
+Date,Category,Merchant/Description,Amount,Bank,IsBookkeeping
+2025-12-29,Transfers,Deposit Free Interac E-Transfer,-342.98,Scotiabank,True
+2025-12-29,Wholesale,Pos Purchase Costco Wholesale W541 Kanat,243.31,Scotiabank,False
+2025-12-29,Refund,Pos Return Fpos Costco Wholesale W54kanat,-51.98,Scotiabank,False
+2025-12-29,Refund,Pos Return Fpos Costco Wholesale W54kanat,-36.14,Scotiabank,False
+2025-12-22,Other,Pos Purchase Opos Facebk *Vug2famdr2 650-5,7.09,Scotiabank,False
+2025-12-22,Credit Card Payment,Customer Transfer Dr. Mb-Credit Card/Loc Pay.,-2480.0,Scotiabank,True
+2025-12-22,Transfers,Deposit Free Interac E-Transfer,-2500.0,Scotiabank,True
+2025-12-22,Credit Card Payment,Customer Transfer Dr. Mb-Credit Card/Loc Pay.,-1600.0,Scotiabank,True
+2025-12-20,Other,Pos Purchase Lcbo/Rao #0638 Kanat,121.6,Scotiabank,False
+2025-12-19,Wholesale,Pos Purchase Fpos Costco Wholesale W54kanat,6.99,Scotiabank,False
+2025-12-19,Wholesale,Pos Purchase Costco Wholesale W541 Kanat,286.67,Scotiabank,False
+2025-12-17,Fees,Service Charge Monthly Fees,3.95,Scotiabank,False
+2025-12-15,Credit Card Payment,Crd. Card Bill Payment,10.0,Scotiabank,True
+2025-12-15,Other,Pos Purchase Opos Facebk *Fz5m5b5dr2 650-5,14.69,Scotiabank,False
+2025-12-15,Transfers,Withdrawal Free Interac E-Transfer,25.0,Scotiabank,True
+2025-12-12,Other,Pos Purchase Fpos South Asian Supermarottaw,7.95,Scotiabank,False
+2025-12-11,Phone/Internet,Pos Purchase Fpos Kfc/Taco Bell Bayshonepea,16.58,Scotiabank,False
+2025-12-04,Wholesale,Pos Purchase Costco Wholesale W541 Kanat,177.11,Scotiabank,False
+2025-12-04,Refund,Pos Return Costco Wholesale W541 Kanat,-37.25,Scotiabank,False
+2025-12-04,Groceries,Pos Purchase Fpos T&T Supermarket #018ottaw,6.75,Scotiabank,False
+2025-12-01,Credit Card Payment,Customer Transfer Dr. Mb-Credit Card/Loc Pay.,-858.0,Scotiabank,True
+2025-12-01,Transfers,Deposit Free Interac E-Transfer,-3000.0,Scotiabank,True

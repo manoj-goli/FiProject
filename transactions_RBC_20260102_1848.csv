@@ -1,0 +1,23 @@
+Date,Category,Merchant/Description,Amount,Bank,IsBookkeeping
+2025-12-31,Credit/Income,Online Transfer to Deposit Account-2807,-1900.0,RBC,False
+2025-12-30,Insurance,Misc Payment SUN LIFE,130.0,RBC,False
+2025-12-30,Income,El CANADA,-1342.0,RBC,False
+2025-12-29,Transfers,e-Transfer sent myself QPYWBW,342.98,RBC,True
+2025-12-29,Insurance,Insurance TD Ins/TD Assur,167.33,RBC,False
+2025-12-29,Utilities,Misc Payment Hydro Ottawa,150.9,RBC,False
+2025-12-22,Transfers,e-Transfer sent myself G8VVGU,2500.0,RBC,True
+2025-12-17,Utilities,Utility Bill Pmt Enbridge Gas,126.86,RBC,False
+2025-12-17,Other,Utility Bill Pmt RELIANCECOMFORT,74.23,RBC,False
+2025-12-17,Utilities,Misc Payment ENERCARE HOME S,34.4,RBC,False
+2025-12-16,Phone/Internet,Telephone Bill Pmt FIDO MOBILE,48.91,RBC,False
+2025-12-11,Other,Online Banking transfer - 5388,3900.0,RBC,False
+2025-12-09,Refund,Monthly Fee Rebate,-6.0,RBC,False
+2025-12-09,Fees,Monthly fee,16.95,RBC,False
+2025-12-09,Insurance,Misc Payment MANULIFE,41.75,RBC,False
+2025-12-05,Income,Payroll Deposit IBM Canada Ltd.,-29.24,RBC,False
+2025-12-05,Income,Payroll Deposit IBM Canada Ltd.,-17320.48,RBC,False
+2025-12-02,Investments,Investment WS Investments,500.0,RBC,False
+2025-12-02,Insurance,Insurance TD Ins/TD Assur,158.95,RBC,False
+2025-12-01,Credit/Income,Online Transfer to Deposit Account-9678,-1950.0,RBC,False
+2025-12-01,Transfers,e-Transfer sent myself 6RWJ8V,3000.0,RBC,True
+2025-12-01,Insurance,Insurance TD Ins/TD Assur,167.33,RBC,False

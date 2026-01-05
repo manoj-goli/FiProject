@@ -18,10 +18,10 @@ RULES = [
         r"\bbr\s*to\s*br\b"
     ]),
     ("Income", [
-        r"\bpayroll\b", r"\bsalary\b"
+        r"\bpayroll\b", r"\bsalary\b", r"\bEl\s*CANADA\b"
     ]),
     ("Refund", [
-        r"\bpos\s*return\b", r"\brefund\b", r"\breversal\b"
+        r"\bpos\s*return\b", r"\brefund\b", r"\breversal\b", r"\bMonthly\s*Fee\s*Rebate\b",
     ]),
     ("Fees", [
         r"\bservice\s*charge\b", r"\bmonthly\s*fees\b", r"\bmonthly\s*fee\b", r"\bfee\s*rebate\b"
